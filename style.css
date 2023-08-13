@@ -56,12 +56,12 @@
     text-align: center;
     padding: 40px 0;
 }
-.main-h{
+.main-title{
     padding-top: 15px ;
     color: #272727;
     font-size: 35px;
 }
-.main-p{
+.main-content{
     font-size: 17px;
     color: rgba(39, 39, 39, 0.60);
     padding: 20px 0;
@@ -102,14 +102,14 @@
     padding: 10px 0;
 }
 
-.free{
+.border{
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
     margin: 80px 0;
     margin: 80px auto;
     padding: 40px 0;
 }
-.group-p{
+.group{
     text-align: center;
 }
 span{
@@ -124,7 +124,7 @@ span{
     padding: 60px 0;
 
 }
-.four-p{
+.flowerss{
     height: 356px;
     width: 302px;
 }
@@ -150,10 +150,10 @@ footer{
     background: #000;
     padding: 60px 0;
 }
-.footer-h{
+.footer-title{
     color: #FFF;
 }
-.footer-p{
+.footer-content{
     color: rgba(255, 255, 255, 0.90);
     padding: 20px 0;
     line-height: 25px;
